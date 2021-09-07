@@ -1,4 +1,3 @@
-package LetsLearnGit;
 
 public class Sub {
     static int a=6;
