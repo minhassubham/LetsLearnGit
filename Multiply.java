@@ -1,5 +1,3 @@
-
-
 public class Multiply {
     static int a=5;
     static int b=5;
